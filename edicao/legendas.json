@@ -1,0 +1,897 @@
+[
+{
+"src_start": 6.760000000000001,
+"src_end": 8.760000000000002,
+"lines": [
+"DIA 17, NÉ?"
+],
+"hl": [
+"DIA 17"
+],
+"hint": 6.6
+},
+{
+"src_start": 11.56,
+"src_end": 15.629999999999999,
+"lines": [
+"FIM DO MUNDO,",
+"GUERRA MUNDIAL"
+],
+"hl": [
+"GUERRA MUNDIAL"
+],
+"hint": 11.0
+},
+{
+"src_start": 18.66,
+"src_end": 20.66,
+"lines": [
+"TEMPO DE",
+"GUERRA HÍBRIDA"
+],
+"hl": [
+"GUERRA HÍBRIDA"
+],
+"hint": 17.0
+},
+{
+"src_start": 37.46,
+"src_end": 39.46,
+"lines": [
+"A TERCEIRA GUERRA MUNDIAL",
+"JÁ ESTÁ ACONTECENDO"
+],
+"hl": [
+"JÁ ESTÁ ACONTECENDO"
+],
+"hint": 34.5
+},
+{
+"src_start": 50.1,
+"src_end": 54.43,
+"lines": [
+"ATAQUES HACKERS EM UM",
+"NÍVEL DE ESCALA GLOBAL"
+],
+"hl": [
+"ESCALA GLOBAL"
+],
+"hint": 48.5
+},
+{
+"src_start": 59.48,
+"src_end": 61.57,
+"lines": [
+"A MICROSOFT",
+"FOI ATACADA"
+],
+"hl": [
+"FOI ATACADA"
+],
+"hint": 59.0
+},
+{
+"src_start": 87.44,
+"src_end": 90.50999999999999,
+"lines": [
+"ESTOCAR ÁGUA, ESTOCAR CARNE,",
+"ESTOCAR COMIDA"
+],
+"hl": [
+"ESTOCAR COMIDA"
+],
+"hint": 87.0
+},
+{
+"src_start": 104.66,
+"src_end": 106.66,
+"lines": [
+"ERRO DE",
+"LÓGICA PROFÉTICA"
+],
+"hl": [
+"LÓGICA PROFÉTICA"
+],
+"hint": 105.0
+},
+{
+"src_start": 119.62,
+"src_end": 121.75,
+"lines": [
+"VOCÊ ACABA CONECTANDO",
+"OS PONTOS ERRADOS"
+],
+"hl": [
+"PONTOS ERRADOS"
+],
+"hint": 117.0
+},
+{
+"src_start": 124.86,
+"src_end": 126.86,
+"lines": [
+"CALMA,",
+"SEM PÂNICO"
+],
+"hl": [
+"SEM PÂNICO"
+],
+"hint": 124.0
+},
+{
+"src_start": 129.26,
+"src_end": 131.47,
+"lines": [
+"O INÍCIO",
+"DAS DORES"
+],
+"hl": [
+"DAS DORES"
+],
+"hint": 128.0
+},
+{
+"src_start": 134.14,
+"src_end": 139.14,
+"lines": [
+"É APENAS O CAVALO VERMELHO,",
+"SEGUNDO O SELO ABERTO"
+],
+"hl": [
+"CAVALO VERMELHO"
+],
+"hint": 133.0
+},
+{
+"src_start": 150.84,
+"src_end": 153.65,
+"lines": [
+"NOS ÚLTIMOS 100 ANOS"
+],
+"hl": [
+"ÚLTIMOS 100 ANOS"
+],
+"hint": 150.0
+},
+{
+"src_start": 195.2,
+"src_end": 197.98999999999998,
+"lines": [
+"EM TEMPOS DE GUERRAS",
+"COMO NUNCA ANTES"
+],
+"hl": [
+"COMO NUNCA ANTES"
+],
+"hint": 193.0
+},
+{
+"src_start": 207.0,
+"src_end": 209.17,
+"lines": [
+"FALAM SOBRE A",
+"PLENITUDE DOS TEMPOS"
+],
+"hl": [
+"PLENITUDE DOS TEMPOS"
+],
+"hint": 204.0
+},
+{
+"src_start": 221.58,
+"src_end": 224.23,
+"lines": [
+"DANIEL E APOCALIPSE",
+"SOBRE O FIM DOS TEMPOS"
+],
+"hl": [
+"SOBRE O FIM DOS TEMPOS"
+],
+"hint": 222.0
+},
+{
+"src_start": 279.04,
+"src_end": 281.55,
+"lines": [
+"APOCALIPSE,",
+"CAPÍTULO 1, 2 E 3"
+],
+"hl": [
+"CAPÍTULO 1, 2 E 3"
+],
+"hint": 278.0
+},
+{
+"src_start": 291.48,
+"src_end": 294.43,
+"lines": [
+"AS SETE CARTAS",
+"DO NOIVO PARA A NOIVA"
+],
+"hl": [
+"DO NOIVO PARA A NOIVA"
+],
+"hint": 289.0
+},
+{
+"src_start": 316.88,
+"src_end": 320.29,
+"lines": [
+"VOCÊ PRECISA ABRIR",
+"OS SETE SELOS"
+],
+"hl": [
+"OS SETE SELOS"
+],
+"hint": 313.0
+},
+{
+"src_start": 338.42,
+"src_end": 341.23,
+"lines": [
+"FIM DO MUNDO, GUERRA MUNDIAL,",
+"NADA DISSO"
+],
+"hl": [
+"NADA DISSO"
+],
+"hint": 337.0
+},
+{
+"src_start": 344.18,
+"src_end": 349.18,
+"lines": [
+"O SELO DO CAVALO VERMELHO",
+"JÁ ESTÁ ABERTO"
+],
+"hl": [
+"JÁ ESTÁ ABERTO"
+],
+"hint": 344.0
+},
+{
+"src_start": 353.98,
+"src_end": 356.45000000000005,
+"lines": [
+"O PRIMEIRO SELO,",
+"O CAVALO BRANCO"
+],
+"hl": [
+"O CAVALO BRANCO"
+],
+"hint": 353.0
+},
+{
+"src_start": 361.0,
+"src_end": 365.83000000000004,
+"lines": [
+"A FALSA PAZ,",
+"A PAZ SEM DEUS, SEM CRISTO"
+],
+"hl": [
+"A FALSA PAZ"
+],
+"hint": 358.0
+},
+{
+"src_start": 377.36,
+"src_end": 380.13,
+"lines": [
+"TIRAM CRISTO DO CENTRO",
+"E COLOCAM ESTADO"
+],
+"hl": [
+"TIRAM CRISTO DO CENTRO"
+],
+"hint": 372.0
+},
+{
+"src_start": 401.6,
+"src_end": 404.31,
+"lines": [
+"ONDE VEM O ENGANO,",
+"VEM GUERRAS"
+],
+"hl": [
+"VEM GUERRAS"
+],
+"hint": 399.0
+},
+{
+"src_start": 407.22,
+"src_end": 410.81,
+"lines": [
+"CRISES E COLAPSOS FINANCEIROS,",
+"É O CAVALO PRETO"
+],
+"hl": [
+"É O CAVALO PRETO"
+],
+"hint": 406.0
+},
+{
+"src_start": 435.28,
+"src_end": 439.85,
+"lines": [
+"EPIDEMIAS, VÍRUS INCONTROLÁVEIS,",
+"BACTÉRIAS INCONTROLÁVEIS"
+],
+"hl": [
+"BACTÉRIAS INCONTROLÁVEIS"
+],
+"hint": 436.0
+},
+{
+"src_start": 444.84,
+"src_end": 449.83000000000004,
+"lines": [
+"O QUINTO SELO:",
+"UMA MULTIDÃO DE MÁRTIRES"
+],
+"hl": [
+"UMA MULTIDÃO DE MÁRTIRES"
+],
+"hint": 446.0
+},
+{
+"src_start": 463.28,
+"src_end": 465.28,
+"lines": [
+"ATÉ QUANDO, SENHOR?"
+],
+"hl": [
+"ATÉ QUANDO, SENHOR?"
+],
+"hint": 459.0
+},
+{
+"src_start": 474.5,
+"src_end": 477.57000000000005,
+"lines": [
+"NOS DIAS DE NERO",
+"A PERSEGUIÇÃO FOI TERRÍVEL"
+],
+"hl": [
+"A PERSEGUIÇÃO FOI TERRÍVEL"
+],
+"hint": 475.0
+},
+{
+"src_start": 491.56,
+"src_end": 494.79,
+"lines": [
+"MISSÃO PORTAS ABERTAS",
+"FUNDADA PELO IRMÃO ANDRÉ"
+],
+"hl": [
+"MISSÃO PORTAS ABERTAS"
+],
+"hint": 486.0
+},
+{
+"src_start": 506.52,
+"src_end": 510.99,
+"lines": [
+"MAIS DE 150 MIL CRISTÃOS",
+"POR ANO SÃO ASSASSINADOS"
+],
+"hl": [
+"MAIS DE 150 MIL CRISTÃOS"
+],
+"hint": 505.0
+},
+{
+"src_start": 518.6,
+"src_end": 522.91,
+"lines": [
+"TEM PAÍSES INTEIROS",
+"QUE É PROIBIDO LER A BÍBLIA"
+],
+"hl": [
+"QUE É PROIBIDO LER A BÍBLIA"
+],
+"hint": 517.0
+},
+{
+"src_start": 549.92,
+"src_end": 552.41,
+"lines": [
+"O QUINTO SELO",
+"TAMBÉM ESTÁ ABERTO"
+],
+"hl": [
+"TAMBÉM ESTÁ ABERTO"
+],
+"hint": 547.0
+},
+{
+"src_start": 570.94,
+"src_end": 572.94,
+"lines": [
+"O SENHOR VAI DAR",
+"UM BASTA"
+],
+"hl": [
+"UM BASTA"
+],
+"hint": 567.0
+},
+{
+"src_start": 619.36,
+"src_end": 622.37,
+"lines": [
+"PERSEGUIÇÃO COMO NUNCA ANTES",
+"NA HISTÓRIA DOS HOMENS"
+],
+"hl": [
+"COMO NUNCA ANTES"
+],
+"hint": 619.0
+},
+{
+"src_start": 635.34,
+"src_end": 637.69,
+"lines": [
+"A IRA DO CORDEIRO",
+"SE MANIFESTA"
+],
+"hl": [
+"A IRA DO CORDEIRO"
+],
+"hint": 633.0
+},
+{
+"src_start": 638.92,
+"src_end": 643.92,
+"lines": [
+"É LANÇADO DOS CÉUS",
+"UM METEORO, UMA ESTRELA"
+],
+"hl": [
+"UM METEORO, UMA ESTRELA"
+],
+"hint": 637.0
+},
+{
+"src_start": 645.42,
+"src_end": 648.63,
+"lines": [
+"TERREMOTO",
+"EM ESCALA GLOBAL"
+],
+"hl": [
+"EM ESCALA GLOBAL"
+],
+"hint": 645.0
+},
+{
+"src_start": 677.64,
+"src_end": 680.41,
+"lines": [
+"ELE NÃO É EXPLICADO",
+"COM PLACAS TECTÔNICAS"
+],
+"hl": [
+"COM PLACAS TECTÔNICAS"
+],
+"hint": 672.0
+},
+{
+"src_start": 685.58,
+"src_end": 689.37,
+"lines": [
+"COMO SE DEUS BATESSE A MÃO",
+"NA MESA E DISSE BASTA"
+],
+"hl": [
+"NA MESA E DISSE BASTA"
+],
+"hint": 685.0
+},
+{
+"src_start": 696.7,
+"src_end": 701.7,
+"lines": [
+"OS PODEROSOS DA TERRA",
+"VÃO SE ESCONDER NOS PENHASCOS"
+],
+"hl": [
+"VÃO SE ESCONDER NOS PENHASCOS"
+],
+"hint": 696.0
+},
+{
+"src_start": 730.46,
+"src_end": 733.75,
+"lines": [
+"O QUE É UM BUNKER?",
+"UM ESCONDERIJO DENTRO DAS ROCHAS"
+],
+"hl": [
+"UM ESCONDERIJO DENTRO DAS ROCHAS"
+],
+"hint": 727.0
+},
+{
+"src_start": 746.58,
+"src_end": 750.33,
+"lines": [
+"QUASE TODOS GOVERNANTES",
+"ATÉ DE NAÇÕES POBRES TÊM BUNKERS"
+],
+"hl": [
+"ATÉ DE NAÇÕES POBRES TÊM BUNKERS"
+],
+"hint": 741.0
+},
+{
+"src_start": 767.66,
+"src_end": 771.6700000000001,
+"lines": [
+"A PROFECIA DO SEXTO SELO",
+"APOCALIPSE, CAPÍTULO 6"
+],
+"hl": [
+"APOCALIPSE, CAPÍTULO 6"
+],
+"hint": 767.0
+},
+{
+"src_start": 796.74,
+"src_end": 800.25,
+"lines": [
+"É O FIM? NÃO.",
+"É O FIM DO INÍCIO DAS DORES"
+],
+"hl": [
+"É O FIM DO INÍCIO DAS DORES"
+],
+"hint": 795.0
+},
+{
+"src_start": 802.98,
+"src_end": 805.15,
+"lines": [
+"O CAPÍTULO 7",
+"TEM UMA PAUSA"
+],
+"hl": [
+"TEM UMA PAUSA"
+],
+"hint": 800.0
+},
+{
+"src_start": 806.12,
+"src_end": 808.97,
+"lines": [
+"O POVO DAS DOZE TRIBOS,",
+"REMANESCENTE E FIEL"
+],
+"hl": [
+"REMANESCENTE E FIEL"
+],
+"hint": 806.0
+},
+{
+"src_start": 811.52,
+"src_end": 814.75,
+"lines": [
+"ROMANOS, CAPÍTULO 11:",
+"O REMANESCENTE SERÁ SALVO"
+],
+"hl": [
+"O REMANESCENTE SERÁ SALVO"
+],
+"hint": 811.0
+},
+{
+"src_start": 843.04,
+"src_end": 845.04,
+"lines": [
+"TRIBULAÇÃO",
+"SOBRE-HUMANA"
+],
+"hl": [
+"SOBRE-HUMANA"
+],
+"hint": 843.0
+},
+{
+"src_start": 868.82,
+"src_end": 872.85,
+"lines": [
+"O QUE VAI VIR",
+"VAI SER SOBRENATURAL"
+],
+"hl": [
+"VAI SER SOBRENATURAL"
+],
+"hint": 868.0
+},
+{
+"src_start": 887.58,
+"src_end": 891.13,
+"lines": [
+"DEUS TRATA COM DISTINÇÃO",
+"O SEU POVO"
+],
+"hl": [
+"DEUS TRATA COM DISTINÇÃO"
+],
+"hint": 885.0
+},
+{
+"src_start": 906.92,
+"src_end": 911.33,
+"lines": [
+"DEUS SEMPRE PRESERVA OS SEUS",
+"NO MEIO DA IRA E DO JUÍZO"
+],
+"hl": [
+"NO MEIO DA IRA E DO JUÍZO"
+],
+"hint": 901.0
+},
+{
+"src_start": 948.58,
+"src_end": 951.27,
+"lines": [
+"UMA MULTIDÃO DE TODA TRIBO,",
+"LÍNGUA E NAÇÃO"
+],
+"hl": [
+"LÍNGUA E NAÇÃO"
+],
+"hint": 948.0
+},
+{
+"src_start": 957.6,
+"src_end": 959.6,
+"lines": [
+"A CONFERÊNCIA GLOBAL",
+"COM O CORDEIRO"
+],
+"hl": [
+"COM O CORDEIRO"
+],
+"hint": 957.0
+},
+{
+"src_start": 973.18,
+"src_end": 977.69,
+"lines": [
+"ALVEJOU AS SUAS VESTES",
+"NO SANGUE DO CORDEIRO"
+],
+"hl": [
+"NO SANGUE DO CORDEIRO"
+],
+"hint": 973.0
+},
+{
+"src_start": 1024.54,
+"src_end": 1026.54,
+"lines": [
+"A MARCA DA BESTA"
+],
+"hl": [
+"A MARCA DA BESTA"
+],
+"hint": 1024.0
+},
+{
+"src_start": 1046.38,
+"src_end": 1048.38,
+"lines": [
+"VÃO SE TORNAR MÁRTIRES"
+],
+"hl": [
+"VÃO SE TORNAR MÁRTIRES"
+],
+"hint": 1046.0
+},
+{
+"src_start": 1069.6,
+"src_end": 1072.55,
+"lines": [
+"AINDA NÃO HOUVE ESSE",
+"TERREMOTO DE ESCALA GLOBAL"
+],
+"hl": [
+"TERREMOTO DE ESCALA GLOBAL"
+],
+"hint": 1069.0
+},
+{
+"src_start": 1079.32,
+"src_end": 1080.82,
+"lines": [
+"COMO É QUE EU",
+"ME PROTEJO ENTÃO?"
+],
+"hl": [
+"ME PROTEJO ENTÃO?"
+],
+"hint": 1076.0
+},
+{
+"src_start": 1080.6,
+"src_end": 1084.1499999999999,
+"lines": [
+"AJUNTE PÃO DO CÉU,",
+"AJUNTE REVELAÇÃO"
+],
+"hl": [
+"AJUNTE REVELAÇÃO"
+],
+"hint": 1081.0
+},
+{
+"src_start": 1086.72,
+"src_end": 1088.88,
+"lines": [
+"AJUNTE VERBO VIVO",
+"QUE DESCEU DO CÉU"
+],
+"hl": [
+"AJUNTE VERBO VIVO"
+],
+"hint": 1087.0
+},
+{
+"src_start": 1089.0,
+"src_end": 1092.83,
+"lines": [
+"ANTES DO SOL NASCER,",
+"PERGUNTE TODO DIA"
+],
+"hl": [
+"PERGUNTE TODO DIA"
+],
+"hint": 1090.0
+},
+{
+"src_start": 1094.84,
+"src_end": 1096.84,
+"lines": [
+"GUARDA, QUE HORAS SÃO?"
+],
+"hl": [
+"GUARDA, QUE HORAS SÃO?"
+],
+"hint": 1097.0
+},
+{
+"src_start": 1105.0,
+"src_end": 1107.0,
+"lines": [
+"A MELHOR DECISÃO",
+"DA MINHA VIDA"
+],
+"hl": [
+"A MELHOR DECISÃO"
+],
+"hint": 1102.0
+},
+{
+"src_start": 1112.26,
+"src_end": 1114.26,
+"lines": [
+"30 ANOS",
+"ESTUDANDO A PALAVRA"
+],
+"hl": [
+"30 ANOS"
+],
+"hint": 1112.0
+},
+{
+"src_start": 1130.76,
+"src_end": 1132.77,
+"lines": [
+"TODO O FINAL DO ANO",
+"ESTUDAR O LIVRO DE APOCALIPSE"
+],
+"hl": [
+"ESTUDAR O LIVRO DE APOCALIPSE"
+],
+"hint": 1130.0
+},
+{
+"src_start": 1135.88,
+"src_end": 1140.88,
+"lines": [
+"MEUS OLHOS TÊM SIDO RENOVADOS",
+"PELOS COLÍRIOS DA PROFECIA"
+],
+"hl": [
+"PELOS COLÍRIOS DA PROFECIA"
+],
+"hint": 1134.0
+},
+{
+"src_start": 1156.9,
+"src_end": 1158.9,
+"lines": [
+"VAI CORRER",
+"PARA APOCALIPSE"
+],
+"hl": [
+"PARA APOCALIPSE"
+],
+"hint": 1149.0
+},
+{
+"src_start": 1160.26,
+"src_end": 1162.9299999999998,
+"lines": [
+"COMPARTILHAR E ORAR",
+"JUNTO COM A SUA FAMÍLIA"
+],
+"hl": [
+"JUNTO COM A SUA FAMÍLIA"
+],
+"hint": 1158.0
+},
+{
+"src_start": 1164.36,
+"src_end": 1166.8000000000002,
+"lines": [
+"COMENTE AQUI EMBAIXO:",
+"REVELAÇÕES"
+],
+"hl": [
+"REVELAÇÕES"
+],
+"hint": 1163.0
+},
+{
+"src_start": 1166.92,
+"src_end": 1168.98,
+"lines": [
+"COMENTE AQUI EMBAIXO:",
+"FIM"
+],
+"hl": [
+"FIM"
+],
+"hint": 1166.5
+},
+{
+"src_start": 1169.1,
+"src_end": 1171.77,
+"lines": [
+"EU VOU MANDAR PARA VOCÊ",
+"UM EBOOK QUE EU CONSTRUÍ"
+],
+"hl": [
+"UM EBOOK"
+],
+"hint": 1170.0
+},
+{
+"src_start": 1176.0,
+"src_end": 1178.0,
+"lines": [
+"LIVES NO YOUTUBE",
+"E NO INSTAGRAM"
+],
+"hl": [
+"YOUTUBE",
+"INSTAGRAM"
+],
+"hint": 1175.0
+},
+{
+"src_start": 1185.4,
+"src_end": 1189.85,
+"lines": [
+"ENCHER O ESTOQUE DE REVELAÇÕES",
+"DO TEMPO DO FIM"
+],
+"hl": [
+"DO TEMPO DO FIM"
+],
+"hint": 1180.0
+}
+]
